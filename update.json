@@ -3,6 +3,6 @@
   "versionCode": 1,
   "minVersionCode": 1,
   "notes": "首个版本：词库改为按需下载，支持应用内更新。",
-  "apkUrl": "https://github.com/gcd888/english-duck/releases/latest/download/EnglishDuck.apk",
+  "apkUrl": "https://github.com/gcd888/opendata/releases/latest/download/EnglishDuck.apk",
   "iosUrl": ""
 }
