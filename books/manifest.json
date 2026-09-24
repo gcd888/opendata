@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-09-23T12:55:03.314596+00:00",
+  "categories": [
+    {
+      "key": "domestic",
+      "name": "国内考试",
+      "icon": "",
+      "children": [
+        {
+          "key": "degree",
+          "name": "学位英语",
+          "icon": "",
+          "books": [
+            {
+              "id": 1,
+              "key": "xuewei4400",
+              "name": "学位英语大纲词汇 4400",
+              "shortName": "学位英语",
+              "fileName": "book_xuewei4400.db",
+              "version": 1,
+              "size": 9785344,
+              "md5": "02571795b9201d1e0194d6823e094bf4",
+              "wordCount": 4413,
+              "url": "",
+              "cover": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "key": "xuewei4400",
+      "name": "学位英语大纲词汇 4400",
+      "shortName": "学位英语",
+      "fileName": "book_xuewei4400.db",
+      "version": 1,
+      "size": 9785344,
+      "md5": "02571795b9201d1e0194d6823e094bf4",
+      "wordCount": 4413,
+      "url": "",
+      "cover": ""
+    }
+  ]
+}
